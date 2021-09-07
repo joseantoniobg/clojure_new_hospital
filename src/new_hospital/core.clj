@@ -1,0 +1,2 @@
+(ns new-hospital.core)
+
